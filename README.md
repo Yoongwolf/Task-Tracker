@@ -10,6 +10,9 @@ Task CLI is a simple command-line interface (CLI) application for managing tasks
 - List all tasks or filter tasks by status (`todo`, `in-progress`, `done`).
 - Automatically creates a JSON file to store tasks if it doesn't exist.
 
+## Project Page
+You can find the project page at: [Task Tracker](https://roadmap.sh/projects/task-tracker)
+
 ## Requirements
 - Python 3.x
 - No external libraries are required.
@@ -132,7 +135,6 @@ Contributions are welcome! If you'd like to add new features or improve the proj
 
 ## License
 This project is licensed under the MIT License.
-https://roadmap.sh/projects/task-tracker
 
 ---
 
